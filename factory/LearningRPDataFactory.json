@@ -1,0 +1,9 @@
+{
+	"name": "LearningRPDataFactory",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7fcb8dfb-2a2d-4bff-a7ce-cfbe41f7a728",
+		"tenantId": "3e596736-70a1-455c-b36c-a6c01d79b9e1"
+	}
+}
